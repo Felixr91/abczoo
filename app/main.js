@@ -81,6 +81,6 @@ class App {
     console.log('tested')
   }
 }
-
+/*
 //attaches to HTML
-window.app = new App()
+window.app = new App()*/
